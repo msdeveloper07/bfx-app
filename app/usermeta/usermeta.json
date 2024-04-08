@@ -1,0 +1,26 @@
+[
+    { 
+      "key": "Tags", 
+      "value": ["Biceps", "Chest", "Triceps","Shoulders", "Back", "Abs","Hamstrings", "Glutes", "Legs"] 
+    },
+    {
+       "key": "Difficulty",
+       "value": ["Beginner", "Intermediate", "Advanced"] 
+    },
+    {
+        "key": "Location",
+        "value": ["Home", "Gym", "Outdoor"] 
+    },
+    {
+      "key": "Range",
+      "value": ["18-24", "25-34", "35-42", "42-54", "55 and over"] 
+    },
+    {
+      "key": "Equipment",
+      "value": ["Bench Set","Barbell","Weight","Rubber Bands", "Wrist Wraps", "Gloves"] 
+    },
+    {
+      "key": "Goal",
+      "value": ["Weight Loss","Strength","Ton","Muscle Gain", "Endurance"] 
+    }
+]
